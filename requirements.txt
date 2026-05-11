@@ -33,3 +33,5 @@ uvloop
 xattr
 gallery-dl
 yt-dlp[default,curl-cffi]
+cryptg
+pyaesni
