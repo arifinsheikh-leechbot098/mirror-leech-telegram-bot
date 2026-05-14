@@ -1,7 +1,7 @@
 This Telegram Bot, based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot), has undergone
 substantial modifications and is designed for efficiently mirroring or leeching files from the Internet to various
 destinations, including Google Drive, Telegram, or any rclone-supported cloud. It is built using asynchronous
-programming in Python.
+programming in Python..
 
 - **TELEGRAM CHANNEL:** https://t.me/mltb_official_channel
 - **TELEGRAM GROUP:** https://t.me/mltb_official_support
